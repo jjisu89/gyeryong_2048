@@ -76,22 +76,21 @@ HTMLActuator.prototype.clearContainer = function (container) {
 var val2caption = function(val){
 
   const captions = [
-  "P.R.R.W", 
-  "나계있",
-  "오르트구름",
-  "물의여행",
-  "잘지내", 
-  "반짝빛을내",
-  "6년230일",
-  "Truly",
-  "별의조각",
-  "하나의달",
-  "Savior",
-  "END",
-  "THEORY",
-  "윤하",
-  "홀릭스",
-  "END THEORY"];
+    "문희",  //2
+    "소현",
+    "수영",//8
+    "지영",
+    "지선", //32
+    "현미",
+    "은주",//128
+    "응규",
+    "우정회",//512
+    "단어가",
+    "더",//2048
+    "필요",
+    "합니다",
+    "ㅋㅋ",
+    ""];
 
   // if(val <= 0) return "<span style='font-size:smaller'>Garbage</span>";
   // if(val == 1){
